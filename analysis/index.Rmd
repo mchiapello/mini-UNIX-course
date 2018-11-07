@@ -3,7 +3,7 @@ title: ""
 author: "Marco chiapello"
 date: "`r Sys.Date()`"
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
 description: ""
