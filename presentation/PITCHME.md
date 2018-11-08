@@ -16,7 +16,7 @@ The Fastest Way From Idea To Presentation.
 For the best viewing experience, press F for fullscreen.
 @css[template-note](We recommend using the *SPACE* key to navigate between slides.)
 
----?include=md/PITCHME.md
+---?include=presentation/md/PITCHME.md
 
 
 ---
